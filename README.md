@@ -1,7 +1,6 @@
-# Midterm p1: Report on Analysis of Fibonacci  Series
+# Report on Analysis of Fibonacci  Series
 * **Author**: Zixi Li
 * **GitHub**: https://github.com/Spring23-CS5008-BOS-Lionelle/midterm-part-1-fib-series-christinalizx
-* **Semester** Spring 2023
 * **Languages Used**: c, python
 
 ## Overview
@@ -290,7 +289,7 @@ I learned a lot thoroughout the research for this report. There are a lot of thi
 [Recursive_P_40]: RecursiveP.png
 [ComparisonP]: ComparisonP.png
 [ComparisonC]: ComparsionC.png
-[workbook]: midterm_workbook.xlsx
+[workbook]: workbook.xlsx
 [DP_C]: DP_C.png
 [DP_P]: DP_P.png
 [IterationC]: IterativeC.png
